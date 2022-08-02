@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/gabriel_dmtrv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/channels/@%F0%9F%94%A5%F0%9D%94%BE%F0%9D%95%92%F0%9D%95%93%F0%9D%95%94%F0%9D%95%99%F0%9D%95%A0%F0%9F%94%A5#4717">
+  <a href="https://discord.com/invite/🔥𝔾𝕒𝕓𝕔𝕙𝕠🔥#4717">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
