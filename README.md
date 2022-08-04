@@ -25,9 +25,7 @@
 ### :man_technologist: About Me :
 - :telescope: I’m student at Software University (SoftUni)
 
-- :seedling: Learning Csharp
-
-- :zap: In my free time, I have fun
+- ⚡: Learning Csharp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GabrielDimitrov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dimitrov-26544723b/) or gabriel_work@abv.bg
 
