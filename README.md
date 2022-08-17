@@ -31,6 +31,32 @@
 
 ---
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <a href="https://www.w3schools.com/cs/index.php">
+    <img src="https://daringeorgiev.github.io/imgs/logos/c-sharp.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://www.w3schools.com/html/default.asp">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://www.w3schools.com/css/default.asp">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </a>
+
+</div>
+
+---
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gabcho3&theme=blueberry)](https://git.io/streak-stats)
 
