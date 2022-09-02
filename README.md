@@ -62,3 +62,36 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabcho3&layout=compact&theme=vision-friendly-dark))](https://github.com/anuraghazra/github-readme-stats)
+
+### 📑My Certificates:
+<table border=2px>
+			<tr>
+				<td>Certificates</td>
+				<td>Courses</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://softuni.bg/certificates/details/133629/4872a095" target="blank">First Certificate</a>
+				</td>
+				<td>Programming Basics with C#</td>
+			</tr>
+      <tr>
+        <td></td>
+        <td>Programming Fundamentals with C#</td>
+      </tr> <tr>
+        <td></td>
+        <td>C# Advanced </td>
+      </tr>
+       <tr>
+        <td></td>
+        <td>JS Advanced</td>
+      </tr>
+       <tr>
+        <td></td>
+        <td>C# DB</td>
+      </tr>
+       <tr>
+        <td></td>
+        <td>C# Web</td>
+      </tr>
+		</table>
