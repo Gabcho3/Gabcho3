@@ -76,22 +76,22 @@
 		<td>Programming Basics with C#</td>
 	</tr>
 	<tr>
-	<td></td>
-	<td>Programming Fundamentals with C#</td>
+		<td>In Progress</td>
+		<td>Programming Fundamentals with C#</td>
 	</tr> <tr>
-	<td></td>
-	<td>C# Advanced </td>
+		<td>Soon</td>
+		<td>C# Advanced </td>
 	</tr>
 	<tr>
-	<td></td>
-	<td>JS Advanced</td>
+		<td>Soon</td>
+		<td>JS Advanced</td>
 	</tr>
 	<tr>
-	<td></td>
-	<td>C# DB</td>
+		<td>Soon</td>
+		<td>C# DB</td>
 	</tr>
 	<tr>
-	<td></td>
-	<td>C# Web</td>
+		<td>Soon</td>
+		<td>C# Web</td>
 	</tr>
 		</table>
