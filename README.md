@@ -84,14 +84,14 @@
 	</tr>
 	<tr>
 		<td>Soon</td>
-		<td>JS Advanced</td>
-	</tr>
-	<tr>
-		<td>Soon</td>
 		<td>C# DB</td>
 	</tr>
 	<tr>
 		<td>Soon</td>
 		<td>C# Web</td>
+	</tr>
+	<tr>
+		<td>Soon</td>
+		<td>JS Front-End</td>
 	</tr>
 		</table>
