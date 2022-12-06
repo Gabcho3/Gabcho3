@@ -76,7 +76,9 @@
 		<td>Programming Basics with C#</td>
 	</tr>
 	<tr>
-		<td>In Progress</td>
+		<td>
+			<a href="https://github.com/Gabcho3/SoftUni-Csharp/blob/main/Fundamentals%20C%23/README.md#-my-certificate" target="blank"> Second Certificate</a>
+		</td>
 		<td>Programming Fundamentals with C#</td>
 	</tr> <tr>
 		<td>Soon</td>
