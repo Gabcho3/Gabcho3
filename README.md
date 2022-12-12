@@ -77,7 +77,7 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Gabcho3/SoftUni-Csharp/blob/main/Fundamentals%20C%23#-my-certificate" target="blank"> Second Certificate</a>
+			<a href="https://github.com/Gabcho3/SoftUni-Csharp/tree/main/Fundamentals%20C%23#-my-certificate" target="blank"> Second Certificate</a>
 		</td>
 		<td>Programming Fundamentals with C#</td>
 	</tr> <tr>
