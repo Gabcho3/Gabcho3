@@ -8,9 +8,6 @@
   <a href="https://www.instagram.com/gabriel_dmtrv/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.fiverr.com/gabcho333">
-    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
 </div>
 
 <h1>
