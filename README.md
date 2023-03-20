@@ -65,32 +65,41 @@
 	<tr>
 		<td>Certificates</td>
 		<td>Courses</td>
+		<td>Certificates</td>
+		<td>Courses</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Gabcho3/SoftUni-Csharp/tree/main/Basics%20C%23#-my-certificate" target="blank">First Certificate</a>
+			<a href="https://softuni.bg/certificates/details/133629/4872a095">Basics</a>
 		</td>
 		<td>Programming Basics with C#</td>
+		<td>Soon</td>
+		<td>C# Advanced</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Gabcho3/SoftUni-Csharp/tree/main/Fundamentals%20C%23#-my-certificate" target="blank"> Second Certificate</a>
+			<a href="https://softuni.bg/certificates/details/148840/7e24d91a" target="blank">Fundamentals</a>
 		</td>
 		<td>Programming Fundamentals with C#</td>
-	</tr> <tr>
 		<td>Soon</td>
-		<td>C# Advanced </td>
+		<td>C# OOP</td>
 	</tr>
 	<tr>
 		<td>Soon</td>
-		<td>C# DB</td>
+		<td>MS SQL</td>
+		<td>Soon</td>
+		<td>Entity Framework Core</td>
 	</tr>
 	<tr>
 		<td>Soon</td>
-		<td>C# Web</td>
-	</tr>
-	<tr>
+		<td>HTML & CSS</td>
 		<td>Soon</td>
 		<td>JS Front-End</td>
+	</tr>
+	<tr>
+		<td>Soon</td>
+		<td>ASP.NET Fundamentals</td>
+		<td>Soon</td>
+		<td>ASP.NET Advanced</td>
 	</tr>
 		</table>
