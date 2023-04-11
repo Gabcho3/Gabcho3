@@ -81,7 +81,9 @@
 			<a href="https://softuni.bg/certificates/details/148840/7e24d91a" target="blank">Fundamentals</a>
 		</td>
 		<td>Programming Fundamentals with C#</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/168790/091e7a75">OOP</a>
+		</td>
 		<td>C# OOP</td>
 	</tr>
 	<tr>
