@@ -73,7 +73,9 @@
 			<a href="https://softuni.bg/certificates/details/133629/4872a095">Basics</a>
 		</td>
 		<td>Programming Basics with C#</td>
-		<td>Soon</td>
+		<td>
+      <a href="https://softuni.bg/certificates/details/168790/091e7a75">Advanced</a>
+ </td>
 		<td>C# Advanced</td>
 	</tr>
 	<tr>
