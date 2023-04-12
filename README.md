@@ -74,7 +74,7 @@
 		</td>
 		<td>Programming Basics with C#</td>
 		<td>
-      <a href="https://softuni.bg/certificates/details/168790/091e7a75">Advanced</a>
+      <a href="https://softuni.bg/certificates/details/169475/92ea7196">Advanced</a>
  </td>
 		<td>C# Advanced</td>
 	</tr>
