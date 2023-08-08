@@ -99,7 +99,9 @@
 	<tr>
 		<td>Soon</td>
 		<td>HTML & CSS</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/181316/fc9fe700">Front-End</a>
+		</td>
 		<td>JS Front-End</td>
 	</tr>
 	<tr>
