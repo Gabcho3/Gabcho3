@@ -91,7 +91,9 @@
 		<td>C# OOP</td>
 	</tr>
 	<tr>
-		<td>Soon</td>
+		<td>
+			 <a href="https://softuni.bg/certificates/details/185801/3ff0546c">SQL</a>
+		</td>
 		<td>MS SQL</td>
 		<td>Soon</td>
 		<td>Entity Framework Core</td>
