@@ -113,7 +113,9 @@
 			<a href="https://softuni.bg/certificates/details/206794/6417bf2c">ASP.NET Fund</a>
 		</td>
 		<td>ASP.NET Fundamentals</td>
-		<td>Soon</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/214227/b56546de">ASP.NET Adv</a>
+		</td>
 		<td>ASP.NET Advanced</td>
 	</tr>
 		</table>
