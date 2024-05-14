@@ -24,7 +24,9 @@
 
 - ⚡: Learning Csharp
 
-- 💥: I am also learning Front-End, especially HTML&CSS along with JavaScript  
+- 💥: I am also learning Front-End, especially HTML&CSS along with JavaScript 
+
+- 📍: Currently learning DevOps
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-GabrielDimitrov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-dimitrov-26544723b/) or gabriel_work@abv.bg
 
