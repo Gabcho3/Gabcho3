@@ -120,4 +120,19 @@
 		</td>
 		<td>ASP.NET Advanced</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://softuni.bg/certificates/details/219686/56517281">DevOps</a>
+		</td>
+		<td>Software Engenreering and DevOps</td>
+		<td>
+			<a href="https://softuni.bg/certificates/details/224725/c47b8ed6">Conts and Clouds</a>
+		</td>
+		<td>Containers and Clouds</td>
+	</tr>
+	<tr>
+		<td  colspan="4" align="center">
+			<a href="https://softuni.bg/certificates/details/225721/2480f8ac"><center>Diploma</center></a>
+		</td>		
+	</tr>
 		</table>
